@@ -1,0 +1,14 @@
+{
+  "name": "wasm-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Keith Brewster <keith.brewster22@gmail.com> (https://brewcodes.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
