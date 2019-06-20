@@ -3,5 +3,5 @@ node_modules
 *.log
 site
 coverage
-package-lock.json
 build
+public
