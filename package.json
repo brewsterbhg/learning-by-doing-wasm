@@ -1,7 +1,7 @@
 {
   "name": "wasm-tutorial",
   "version": "1.1.0",
-  "description": "",
+  "description": "WASM tutorial LBD",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,7 +9,10 @@
     "demo": "open http://localhost:2222/$DEMO/index.html"
   },
   "author": "Keith Brewster <keith.brewster22@gmail.com> (https://brewcodes.com)",
-  "license": "ISC",
+  "contributors": [
+    "Alvaro Pinot <null@js.army> (https://twitter.com/alvaropinot)"
+  ],
+  "license": "MIT",
   "dependencies": {
     "express": "4.17.1"
   },
